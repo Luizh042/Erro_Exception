@@ -1,0 +1,15 @@
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\bin\Debug\net7.0\EME.deps.json
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\bin\Debug\net7.0\EME.dll
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\bin\Debug\net7.0\EME.pdb
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.csproj.AssemblyReference.cache
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.AssemblyInfoInputs.cache
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.AssemblyInfo.cs
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.csproj.CoreCompileInputs.cache
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.dll
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\refint\EME.dll
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.pdb
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\ref\EME.dll
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\bin\Debug\net7.0\EME.exe
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\bin\Debug\net7.0\EME.runtimeconfig.json
+C:\Users\Xtreme Gamer\projetos\Erro_Exception\EME\obj\Debug\net7.0\EME.genruntimeconfig.cache
